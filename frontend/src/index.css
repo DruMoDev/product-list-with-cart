@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  box-sizing: border-box;
+  background-color: hsl(20, 50%, 98%);
+  fill: currentColor;
+}
+
+svg {
+  fill: currentColor;
+}
